@@ -4,8 +4,9 @@ Introduction
 This repository  contains the Dockerfile used to create a Docker image capable
 of building Sherpa conda packages for compatibility with CentOS 5 systems.
 
-The repository is linked to a Docker Hub repository and images are built
-automatically at each commit.
+The repository is linked to a
+[Docker Hub](https://hub.docker.com/r/sherpadev/legacy-builds/) repository and
+images are built automatically at each commit.
 
 This is not a supported product, but an effort to help those Sherpa users who
 need back-porting Sherpa on an unsupported platform.
